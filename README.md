@@ -8,7 +8,7 @@
 
 :house_with_garden: I am from Brazil, living in Manaus (Amazonas).
 
-:seedling: I’m currently learning Shell Scripting
+:seedling: I’m currently learning Pascal/Delphi
 
 :rocket: 2021 Goals: skills back-end, front-end and infrastructure
 
