@@ -10,7 +10,7 @@
 
 :seedling: I’m currently learning Pascal/Delphi, Ruby
 
-:rocket: 2021 Goals: skills back-end, front-end and infrastructure
+:rocket: 2022 Goals: skills back-end, front-end, infrastructure, design patterns, solid, clean code
 
  
 ## About me
