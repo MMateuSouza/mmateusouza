@@ -4,11 +4,11 @@
 
 :computer: I am Software Engineer!
 
-:telescope: I’m currently working on Bemol Digital
+:telescope: I’m currently working on FPF Tech
 
 :house_with_garden: I am from Brazil, living in Manaus (Amazonas).
 
-:seedling: I’m currently learning Pascal/Delphi, Ruby
+:seedling: I’m currently learning ...
 
 :rocket: 2022 Goals: skills back-end, front-end, infrastructure, design patterns, solid, clean code
 
@@ -78,17 +78,3 @@
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 ![Shell script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-
-# Play with me!
-
-![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-
-# My hobbies...
-
-:bike: Ciclying
-
-:car: Driving
-
-:airplane: Travel and Know new places
